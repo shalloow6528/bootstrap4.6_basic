@@ -1,0 +1,9 @@
+*.psd
+origin/
+plan.pdf
+plan_*.pdf
+img/
+/svg
+
+*.asf
+*.hwp
